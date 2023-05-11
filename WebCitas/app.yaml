@@ -1,0 +1,6 @@
+name: ProyectoClinica
+services:
+- name: web
+  github:
+    repo: digitalocean/ProyectoClinica
+    branch: main
